@@ -5,4 +5,4 @@ Git tracks changes.
 Git add text.
 Hello Git.
 Creating a new branch is quick.
-I wrote it again.
+Creating a new branch is quick and simple.
